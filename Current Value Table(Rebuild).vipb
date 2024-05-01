@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-04-28 15:21:00" Modified_Date="2024-04-29 12:35:26" Creator="CYN8SZH" Comments="" ID="fcdd7990acf93884bea64eee77cb9ea0">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2024-04-28 15:21:00" Modified_Date="2024-05-01 23:15:04" Creator="CYN8SZH" Comments="" ID="7e184a87d1b59274199e7c60e9e9f105">
   <Library_General_Settings>
     <Package_File_Name>Omg_lib_Current_Value_Table(Rebuild)</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source_Code</Library_Source_Folder>
     <Library_Output_Folder>build</Library_Output_Folder>
@@ -320,7 +320,7 @@
         <Path>Source_Code\unnamed</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2E2F8B0EA6D69D22DB363A02FD90CD50</GUID>
+      <GUID>9044AC800AD3403F1B24E6609D876DB4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -425,7 +425,7 @@
         <Path>Source_Code\Libraries\Write Index.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DB42FD31A46704A5446D1DFF480B1DB3</GUID>
+      <GUID>F743DC3F8A0796F49697F6FF75A42BE4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -572,7 +572,7 @@
         <Path>Source_Code\Libraries\Delete Group.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5CCD170ABF5E6DE4E8E231F7E66F47D4</GUID>
+      <GUID>512BD689966138BF6FC5B479BE78D748</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -663,7 +663,7 @@
         <Path>Source_Code\Libraries\Write Tag Description.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E56DF211DA049421F39F91214C1CBA8C</GUID>
+      <GUID>2F5282C1CFFB7FE92962B894F07B07E6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -740,7 +740,7 @@
         <Path>Source_Code\Libraries\Examples\Utility Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C78E28A3670506D971B8548AB1F90436</GUID>
+      <GUID>AF8DD1C7DF42C5C9FAA3C29AF4C09A05</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
